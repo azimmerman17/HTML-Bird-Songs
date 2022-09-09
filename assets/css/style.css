@@ -41,3 +41,8 @@ nav a:hover {
 main {
     margin: 0 10%;
 }
+
+#peacock {
+    max-width: 50%;
+    max-height: 50%;
+}
